@@ -1,45 +1,50 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, I'm Console</h1>
-<h3 align="center">Node.js • Python • JavaScript Developer</h3>
+<h3 align="center">Backend Developer • Discord Bot Engineer • OSS Contributor</h3>
+
+---
+
+### 💬 Discord Presence
 
 <p align="center">
-  <a href="https://instagram.com/console.fy" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@console.fy-E4405F?style=flat&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/yup-console" target="_blank">
-    <img src="https://img.shields.io/github/followers/yup-console?label=GitHub&style=social"/>
-  </a>
+  <img src="https://lanyard.cnrad.dev/api/901487880067776524" alt="Discord Presence" />
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### 👨‍💻 About Me
 
-- 🧠 Passionate about building bots, APIs, and automations  
-- 🛠 Currently learning **scalable backend systems**  
-- 🤝 Open to collaboration on cool projects  
-- 📫 Discord: `console.fy`
+I'm a backend-focused developer experienced in building scalable systems and automation tools.  
+I specialize in creating Discord bots, REST APIs, and integrating third-party services using Node.js and Python.  
+My approach prioritizes performance, reliability, and minimalism.  
+Currently open to freelance opportunities and collaborations on meaningful open-source work.
 
 ---
 
 ### 🚀 Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yup-console&show_icons=true&hide_border=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yup-console&hide_border=true&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yup-console&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yup-console&layout=compact&hide_border=true&theme=radical" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yup-console&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yup-console&theme=tokyonight&utcOffset=+5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yup-console&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yup-console&theme=tokyonight" />
 </p>
 
 ---
@@ -47,5 +52,14 @@
 ### 🏆 GitHub Trophy Case
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yup-console&theme=darkhub&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yup-console&theme=monokai&no-frame=true&margin-w=10" />
 </p>
+
+---
+
+### 📬 Connect with Me
+
+- Instagram: [@console.fy](https://instagram.com/console.fy)  
+- Discord: `console.fy`  
+- GitHub: [@yup-console](https://github.com/yup-console)
+- 
