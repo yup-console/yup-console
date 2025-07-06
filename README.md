@@ -22,7 +22,7 @@ class Developer:
         self.role = "Full Stack Developer"
         self.language_spoken = ["en_US", "hi_IN"]
         self.tech_stack = ["Node.js", "Python", "JavaScript"]
-        self.current_work = "Building scalable backend systems"
+        self.current_work = "Python Development Projects"
         self.learning = "Advance Cloud Technologies"
 
     def say_hi(self):
