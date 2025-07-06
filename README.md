@@ -19,7 +19,7 @@
 class Developer:
     def __init__(self):
         self.name = "Console"
-        self.role = "Backend Developer"
+        self.role = "Full Stack Developer"
         self.language_spoken = ["en_US", "hi_IN"]
         self.tech_stack = ["Node.js", "Python", "JavaScript"]
         self.current_work = "Building scalable backend systems"
