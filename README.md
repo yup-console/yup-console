@@ -6,7 +6,7 @@
 ### 💬 Discord Presence
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/901487880067776524" alt="Discord Presence" />
+  <img src="https://lanyard.cnrad.dev/api/901487880067776524?theme=dark&animated=true&hideDiscrim=true&idleMessage=DND%20Mode%20Enabled" alt="Discord Presence" />
 </p>
 
 ---
