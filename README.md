@@ -57,9 +57,17 @@ Currently open to freelance opportunities and collaborations on meaningful open-
 
 ---
 
-### 📬 Connect with Me
+### 📬 Connect With Me
 
-- Instagram: [@console.fy](https://instagram.com/console.fy)  
-- Discord: `console.fy`  
-- GitHub: [@yup-console](https://github.com/yup-console)
-- 
+<p align="left">
+  <a href="https://instagram.com/console.fy" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:consoledev@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.com/users/901487880067776524" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
+
