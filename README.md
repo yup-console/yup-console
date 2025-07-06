@@ -23,7 +23,7 @@ class Developer:
         self.language_spoken = ["en_US", "hi_IN"]
         self.tech_stack = ["Node.js", "Python", "JavaScript"]
         self.current_work = "Building scalable backend systems"
-        self.learning = "Cloud Infrastructure & Automation"
+        self.learning = "Advance Cloud Technologies"
 
     def say_hi(self):
         print("Thanks for visiting! Let's create something impactful together 🚀")
