@@ -13,13 +13,9 @@
 
 ---
 
-<details>
-  <summary>📌 About Me</summary>
+### 👨‍💻 About Me
 
-  <br>
-
-  <pre>
-  <code>
+```py
 class Developer:
     def __init__(self):
         self.name = "Console"
@@ -34,10 +30,7 @@ class Developer:
 
 me = Developer()
 me.say_hi()
-  </code>
-  </pre>
-
-</details>
+```
 
 ---
 
