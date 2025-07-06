@@ -13,12 +13,25 @@
 
 ---
 
-### 👨‍💻 About Me
+<details open>
+  <summary>📦 About Me</summary>
 
-I'm a backend-focused developer experienced in building scalable systems and automation tools.  
-I specialize in creating Discord bots, REST APIs, and integrating third-party services using Node.js and Python.  
-My approach prioritizes performance, reliability, and minimalism.  
-Currently open to freelance opportunities and collaborations on meaningful open-source work.
+```py
+class Developer:
+    def __init__(self):
+        self.name = "Console"
+        self.role = "Backend Developer"
+        self.language_spoken = ["en_US", "hi_IN"]
+        self.tech_stack = ["Node.js", "Python", "JavaScript"]
+        self.current_work = "Building scalable backend systems"
+        self.learning = "Cloud Infrastructure & Automation"
+
+    def say_hi(self):
+        print("Thanks for visiting! Let's create something impactful together 🚀")
+
+me = Developer()
+me.say_hi()
+</details>
 
 ---
 
