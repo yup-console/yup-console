@@ -17,7 +17,7 @@ class Developer:
         self.name = "Console"
         self.role = "Full Stack Developer"
         self.language_spoken = ["en_US", "hi_IN"]
-        self.tech_stack = ["Node.js", "Python", "JavaScript"]
+        self.tech_stack = ["Node.js", "Python", "JavaScript", "HTML", "CSS"]
         self.current_work = "Python Development Projects"
         self.learning = "Advance Cloud Technologies"
 
