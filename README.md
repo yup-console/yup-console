@@ -102,8 +102,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=yup-console&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7" />
 </div>
 
-> ⚠️ If the trophies above don't load (Vercel free-tier quota resets randomly), this line uses a mirrored instance that isn't hitting the same rate limit — no action needed on your end. If it ever shows a broken image again, swap the domain to `github-profile-trophy-lucthienphong1120.vercel.app` in this same URL pattern.
-
 ---
 
 ## 📬 Let's Connect
@@ -117,3 +115,4 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+
