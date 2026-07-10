@@ -52,7 +52,7 @@ const yupConsole = {
 ### Waterlink
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yup-console&repo=waterlink&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0b0f19" alt="Waterlink pin"/>
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/pin/?username=yup-console&repo=waterlink&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0b0f19" alt="Waterlink pin"/>
 </div>
 
 A Lavalink wrapper for Discord music bots — designed to make audio playback, queueing, and node management simple to integrate. [Available on PyPI](https://pypi.org/project/waterlink).
@@ -96,8 +96,8 @@ A Lavalink wrapper for Discord music bots — designed to make audio playback, q
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yup-console&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0b0f19&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yup-console&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0b0f19" alt="Top Languages" height="165"/>
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=yup-console&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&bg_color=0b0f19&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=yup-console&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0b0f19" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
@@ -133,4 +133,3 @@ A Lavalink wrapper for Discord music bots — designed to make audio playback, q
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
-
