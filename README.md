@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=yup-console&fontSize=60&fontColor=0b0f19&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20UI%20Designer%20•%20Discord%20Bot%20Maker&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+full+stack+apps+with+React+%2B+Node.js;Designing+clean%2C+minimal+UIs;Crafting+Discord+bots+%26+live+status+widgets;Currently+open+to+work+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Building+full+stack+apps+with+React+%2B+Node.js;Designing+clean%2C+minimal+UIs;Crafting+Discord+bots+%26+live+status+widgets;Currently+open+to+work" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -30,7 +30,7 @@ const yupConsole = {
     backend: ["Node.js"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "SQLite"],
   },
-  launchedProjects: ["Discord Live Status Aesthetic (Lanyard API)"],
+  launchedProjects: ["Waterlink (Lavalink wrapper for Discord music bots, on PyPI)"],
   certifications: [], // none listed yet
   status: "Building & designing",
   openTo: ["full-time roles", "freelance work", "collabs"],
@@ -42,32 +42,32 @@ const yupConsole = {
 ## 🎧 Live Discord Status
 
 <div align="center">
-  <img src="https://lanyard-profile-readme.vercel.app/api/901487880067776524?theme=dark&bg=0b0f19&animated=true&borderRadius=12px" alt="Discord Presence" />
+  <img src="https://lanyard-profile-readme.vercel.app/api/901487880067776524?theme=dark&bg=0b0f19&animated=true&borderRadius=24px&idleMessage=Currently%20idle&hideDiscrim=true" alt="Discord Presence" width="380"/>
 </div>
-
-> Real-time status, activity, and Spotify (if playing) — powered by the [Lanyard API](https://github.com/Phineas/lanyard).
 
 <br/>
 
 ## 🚀 Featured Projects
 
-### Discord Live Status Aesthetic (Lanyard API)
+### Waterlink
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yup-console&repo=discord-live-status-aesthetic&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0b0f19" alt="Discord Live Status Aesthetic pin"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=yup-console&repo=waterlink&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9&bg_color=0b0f19" alt="Waterlink pin"/>
 </div>
 
-A real-time Discord presence widget built on the Lanyard API — shows live status, current activity, and Spotify playback with a clean, minimal aesthetic.
+A Lavalink wrapper for Discord music bots — designed to make audio playback, queueing, and node management simple to integrate. [Available on PyPI](https://pypi.org/project/waterlink).
 
 | Layer | Technology |
 |---|---|
-| Frontend | React / HTML5 / CSS3 |
-| API | Lanyard API (Discord Gateway) |
-| Language | TypeScript / JavaScript |
+| Language | Python |
+| Package | PyPI (waterlink) |
+| Audio | Lavalink |
+| Platform | Discord API |
 
 <div align="center">
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=7dd3fc)](https://github.com/yup-console/discord-live-status-aesthetic)
+[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=7dd3fc)](https://github.com/yup-console/waterlink)
+[![PyPI](https://img.shields.io/badge/PyPI-waterlink-7dd3fc?style=for-the-badge&logo=pypi&logoColor=0b0f19)](https://pypi.org/project/waterlink)
 
 </div>
 
@@ -133,3 +133,4 @@ A real-time Discord presence widget built on the Lanyard API — shows live stat
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=120&section=footer&animation=twinkling" width="100%"/>
+
