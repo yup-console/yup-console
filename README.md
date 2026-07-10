@@ -30,7 +30,7 @@ const yupConsole = {
     backend: ["Node.js"],
     databases: ["PostgreSQL", "MongoDB", "Redis", "SQLite"],
   },
-  launchedProjects: ["Waterlink (Lavalink wrapper for Discord music bots, on PyPI)"],
+  launchedProjects: ["Waterlink (Lavalink wrapper for Discord music bots, available on PyPI)"],
   certifications: [], // none listed yet
   status: "Building & designing",
   openTo: ["full-time roles", "freelance work", "collabs"],
